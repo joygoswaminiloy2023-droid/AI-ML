@@ -1,7 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:a3e635&height=220&section=header&text=AI%20%26%20ML%20Engineering%20Journey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Phitron%20AI%2FML%20Bootcamp%20%E2%80%A2%20Batch%2003&descAlignY=58&descSize=18" alt="header" />
+# 🤖 AI & ML Engineering Journey
+
+### Phitron AI/ML Bootcamp • Batch 03
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=From+MERN+Developer+to+AI+Engineer;Learning+ML%2C+DL%2C+NLP%2C+RAG+%26+Agents;Building+production-grade+AI+systems;Learning+in+public.+Shipping+every+week." alt="Typing SVG" />
@@ -323,12 +325,12 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
@@ -350,7 +352,7 @@ flowchart LR
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joygoswaminiloy2023-droid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
@@ -358,6 +360,5 @@ flowchart LR
 
 > _"The best way to predict the future is to train it."_ 🤖
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3e635,50:2563eb,100:0f172a&height=120&section=footer" alt="footer" />
 
 </div>
